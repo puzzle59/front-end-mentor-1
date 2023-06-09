@@ -6,7 +6,7 @@ img{width:100%;border-radius: 10%;height:60%;}
 h1{
 font-size:18px;text-align: center;}
 p{font-size:14px;text-align: center;color:grey;}
-@media screen and (max-width:380px){
+@media screen and (max-width:600px){
     .container{padding:10px;width:80%;height:100%;margin:27px 27px;}
 
 }
