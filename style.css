@@ -1,0 +1,12 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+.container{padding:10px;background-color: white;width:20%;height:52vh;margin:200px auto;}
+body{background-color: aqua;font-family:'Comme', sans-serif;}
+img{width:100%;border-radius: 10%;height:60%;}
+h1{
+font-size:18px;text-align: center;}
+p{font-size:14px;text-align: center;color:grey;}
+@media screen and (max-width:380px){
+    .container{padding:10px;width:80%;height:100%;margin:27px 27px;}
+
+}
